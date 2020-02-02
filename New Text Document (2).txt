@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style type="text/CSS">
+			h1{font-family:"castellar"}
+		</style>
+		<meta name="author" content="Harsh Karn"/>
+		<title>Bio-data</title>
+	</head>
+	<body>
+		<center><u><h1>BIO-DATA</h1></u>
+		<img src="005.jpg" height="250" width="175"></center>
+		<center><table style="width:60%" border=1>
+			<tr>
+				<th colspan="3" bgcolor="#dedcd7">PERSONAL DETAILS</th>
+			</tr>
+			<tr>
+				<th align="left">First Name</th>
+				<td colspan="2">Harsh</td>
+			</tr>
+			<tr>	
+				<th align="left">Middle Name</th>
+			<tr>
+				<th align="left">Last Name</th>
+				<td colspan="2">Karn</td>
+			</tr>
+			<tr>
+				<th align="left">Date of Birth (DD/MM/YYYY)</th>
+				<td colspan="2">29/08/1999</td>
+			</tr>
+			<tr>
+				<th align="left">Age (in years)</th>
+				<td colspan="2">20</td>
+			</tr>
+			<tr>
+				<th align="left">Gender</th>
+				<td colspan="2">Male</td>
+			</tr>
+			<tr>
+				<th align="left">Occupation</th>
+				<td colspan="2">Student</td>
+			</tr>
+			<tr>
+				<th align="left">Aadhar Number</th>
+				<td colspan="2">4208 1132 7978</td>
+			</tr>
+			<tr>
+				<th align="left">PAN Number</th>
+				<td colspan="2">GCFPK3866K</td>
+			</tr>
+			<tr>
+				<th align="left">Mother's Name</th>
+				<td colspan="2">Nirupa Rani</td>
+			</tr>
+			<tr>
+				<th align="left">Father's Name</th>
+				<td colspan="2">Dr. Arun Kumar Karn</td>
+			</tr>
+			<tr>
+				<th align="left">Relationship Status</th>
+				<td colspan="2">Single</td>
+			</tr>
+			<tr>
+				<th align="left">Nationality</th>
+				<td colspan="2">Indian</td>
+			<tr>
+			<tr>
+				<th colspan="3" bgcolor="#dedcd7">EDUCATIONAL DETAILS</th>
+			</tr>
+			<tr>
+				<th rowspan="4">10th</th>
+			</tr>
+			<tr>
+				<th align="left">Year</th>
+				<td>2015</td>
+			</tr>
+			<tr>
+				<th align="left">Institution</th>
+				<td>Loyola High School, Patna</td>
+			</tr>
+			<tr>
+				<th align="left">Result</th>
+				<td>10 CGPA </th>
+			</tr>
+			<tr>
+				<th rowspan="4">12th</th>
+			</tr>
+			<tr>
+				<th align="left">Year</th>
+				<td>2017</td>
+			</tr>
+			<tr>
+				<th align="left">Institution</th>
+				<td>St. Michael's High School, Patna</td>
+			</tr>
+			<tr>
+				<th align="left">Result</th>
+				<td>85.4%</th>
+			</tr>
+			<tr>
+				<th rowspan="4">Graduation</th>
+			</tr>
+			<tr>
+				<th align="left">Year</th>
+				<td>2022 (Expected)</td>
+			</tr>
+			<tr>
+				<th align="left">Institution</th>
+				<td>Kalinga Institute of Industrial Technology, Bhubaneshwar</td>
+			</tr>
+			<tr>
+				<th align="left">Result</th>
+				<td>8.97* CGPA(after 3rd semester)</th>
+			</tr>
+			<tr>
+				<th colspan="3" bgcolor="#dedcd7">CONTACT DETAILS</th>
+			</tr>
+			<tr>
+				<th>Correspondence Address</th>
+				<td colspan="2">Room No.:4A-125,King's Palace: 9-D, Campus-5,KIIT,Bhubaneshwar-751024</td>
+			</tr>
+			<tr>
+				<th>Permanent Address</th>
+				<td colspan="2">Flat No-534, Arrah Garden Residency, Jagdeo Path, Bailey Road, Patna-800014</td>
+			</tr>
+			<tr>
+				<th>Phone Number</th>
+			</tr>
+			<tr>
+				<th rowspan="3">Mobile Number</th>
+			</tr>
+			<tr>
+				<td colspan="2">94728 02876</td>
+			</tr>
+			<tr>
+				<td colspan="2">86580 31635</td>
+			</tr>
+			<tr>
+				<th>Email ID</th>
+				<td colspan="2">harshkarn29@gmail.com</td>
+			</tr>
+			<tr>
+				<th colspan="3" bgcolor="#dedcd7"> SOCIAL PROFILE(S)</th>
+			</tr>
+			<tr>
+				<th>LinkedIn</th>
+				<td colspan="2">https://www.linkedin.com/in/harsh-karn-99967219a/</td>
+			</tr>
+			<tr>
+				<th>Github</th>
+				<td colspan="2">https://github.com/karnHarsh</td>
+			</tr>
+			<tr>
+				<th colspan="3" bgcolor="#dedcd7">SKILLS</th>
+			</tr>
+			<tr>
+				<td colspan="3"><ul type="square">
+					<li>C
+					<li>C++
+					<li>Java
+					<li>Web Development (Front End)
+					<li>Machine Learning
+				</ul></td>
+			</tr>
+			<tr>
+				<th colspan="3" bgcolor="#dedcd7">EXTRAS</th>
+			</tr>
+				<td colspan="3"><ul>
+					<li>Event Coordinator at KIITFEST 6.0
+					<li>Member of Khwaab Society
+					<li>Member of KIIT ACM Society
+				</ul></td>
+			</tr>
+		</table></center>
+	</body>
+</html>
